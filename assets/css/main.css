@@ -1140,6 +1140,8 @@ a.tof-btn:hover i {
 }
 
 .single-logo-item {
+  display: flex;
+  justify-content: center;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
